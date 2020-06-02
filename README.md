@@ -18,3 +18,7 @@ Discover important coding questions with solutions
 #11 Find GCD of two numbers.
 #12 Find GCD of two numbers recursively;
 #13 Write a program to check whether a given number is an ugly number. Ugly numbers are positive numbers whose prime factors only include 2, 3, 5. For example, 6, 8 are ugly while 14 is not ugly since it includes another prime factor 7. Note that 1 is typically treated as an ugly number.
+2/06/2020
+#14 Find the sum of first N natural numbers using recursion
+#15 Write a recursive function pow(a,b) to calculate a^b.
+#16 The problem is to count all the possible paths from top left to bottom right of a mXn matrix with the constraints that from each cell you can either move only to right or down.
